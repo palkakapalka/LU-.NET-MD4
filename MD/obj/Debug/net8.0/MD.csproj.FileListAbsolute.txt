@@ -1,0 +1,12 @@
+C:\Users\Daniel\Desktop\LU\3.sem\.NET\MD\MD\bin\Debug\net8.0\MD.deps.json
+C:\Users\Daniel\Desktop\LU\3.sem\.NET\MD\MD\bin\Debug\net8.0\MD.dll
+C:\Users\Daniel\Desktop\LU\3.sem\.NET\MD\MD\bin\Debug\net8.0\MD.pdb
+C:\Users\Daniel\Desktop\LU\3.sem\.NET\MD\MD\obj\Debug\net8.0\MD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\LU\3.sem\.NET\MD\MD\obj\Debug\net8.0\MD.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\LU\3.sem\.NET\MD\MD\obj\Debug\net8.0\MD.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\LU\3.sem\.NET\MD\MD\obj\Debug\net8.0\MD.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\LU\3.sem\.NET\MD\MD\obj\Debug\net8.0\MD.sourcelink.json
+C:\Users\Daniel\Desktop\LU\3.sem\.NET\MD\MD\obj\Debug\net8.0\MD.dll
+C:\Users\Daniel\Desktop\LU\3.sem\.NET\MD\MD\obj\Debug\net8.0\refint\MD.dll
+C:\Users\Daniel\Desktop\LU\3.sem\.NET\MD\MD\obj\Debug\net8.0\MD.pdb
+C:\Users\Daniel\Desktop\LU\3.sem\.NET\MD\MD\obj\Debug\net8.0\ref\MD.dll
